@@ -1,0 +1,22 @@
+# PyTorch mit CUDA 11.8 (angepasst an GPU/Umgebung)
+torch==2.7.1+cu118
+torchvision==0.22.1+cu118
+torchaudio==2.7.1+cu118
+--extra-index-url https://download.pytorch.org/whl/cu118
+
+# YOLO (Ultralytics)
+ultralytics==8.3.181
+
+# Standard Pakete
+opencv-python
+numpy
+matplotlib
+pandas
+pillow
+pyyaml
+tqdm
+
+# 3D / Geometrie
+trimesh
+open3d
+pyrender

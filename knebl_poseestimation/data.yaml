@@ -1,0 +1,25 @@
+train: ./images/train
+val: ./images/val
+
+nc: 20
+names:
+  - morobot-s_Achse-1A_gray
+  - morobot-s_Achse-1A_yellow
+  - morobot-s_Achse-1B_gray
+  - morobot-s_Achse-1B_yellow
+  - morobot-s_Achse-2A_gray
+  - morobot-s_Achse-2A_yellow
+  - morobot-s_Achse-2B_gray
+  - morobot-s_Achse-2B_yellow
+  - morobot-s_Achse-3A_gray
+  - morobot-s_Achse-3A_yellow
+  - morobot-s_Achse-3A-rrr_gray
+  - morobot-s_Achse-3A-rrr_yellow
+  - morobot-s_Achse-3B_gray
+  - morobot-s_Achse-3B_yellow
+  - morobot-s_Achse-3B-rrr_gray
+  - morobot-s_Achse-3B-rrr_yellow
+  - morobot-s_Linearachse_gray
+  - morobot-s_Linearachse_yellow
+  - morobot-s_Zahnrad_gray
+  - morobot-s_Zahnrad_yellow
